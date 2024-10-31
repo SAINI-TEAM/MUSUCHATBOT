@@ -3,6 +3,7 @@ pyrogram==2.0.106
 pymongo
 pyromod==2.0.0
 motor
+pykeyboard
 heroku3
 gitpython
 requests
